@@ -1,4 +1,4 @@
-package com.website.Ecommerce;
+package com.website.Controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
